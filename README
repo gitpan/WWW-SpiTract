@@ -1,0 +1,22 @@
+WWW/SpiTract version 0.01
+=========================
+
+WWW::SpiTract is a powerful tool for webpage retrieval plus a text analyzer.
+Users can write a site description file, and WWW::SpiTract can fetch web pages and retrieve data automatically.
+
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+
+COPYRIGHT AND LICENCE
+
+WWW::SpiTract is released under The Artisitc License.
+
+Copyright (C) 2002 xern <xern@cpan.org>
